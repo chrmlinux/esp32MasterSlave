@@ -1,4 +1,4 @@
-'''
+```
 World's easiest i2c Slave and Master
 
        Master                        Slave
@@ -15,4 +15,4 @@ World's easiest i2c Slave and Master
                             |       SDA                   |
                             +-----------------------------+
                                     SCL
-'''
+```
